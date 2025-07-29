@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leul! <br/><a href="https://github.com/soylu22">Programmer</a>, <a href="https://linkedin.com/in/leul-misganaw-891160248?">Software Engineering Professional</a></h1>
+<h1>Hi, I'm Leul! <br/><a href="https://github.com/soylu22">Programmer</a> and <a href="https://linkedin.com/in/leul-misganaw-891160248?">Software Engineering Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
