@@ -6,13 +6,6 @@ Welcome to my profile! I'm a passionate developer exploring the world of Python,
 
 ---
 
-## 📊 GitHub Stats
-
-![Soylu22's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soylu22&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soylu22&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
